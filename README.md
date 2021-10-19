@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @DanielMatrixSYS
-- 👀 I’m interested in fitness, nutrition and technology.
-- 🌱 I’m currently learning Rust Lang
+- 👋 Hi.
 
 <!---
 DanielMatrixSYS/DanielMatrixSYS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
