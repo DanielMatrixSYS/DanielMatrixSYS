@@ -1,1 +1,1 @@
-[![Daniel](https://github-readme-stats.vercel.app/api/wakatime?username=DanielSYS)](https://wakatime.com/@DanielSYS)
+[![wakatime](https://wakatime.com/badge/user/246608a4-614a-431e-861d-aafb2ee1acdc.svg)](https://wakatime.com/@246608a4-614a-431e-861d-aafb2ee1acdc)
